@@ -1,5 +1,17 @@
 body {
     font-family: sans-serif;
+    text-align: center; /* Centrar el texto */
+}
+
+h1 {
+    border-bottom: 2px solid #000; /* Línea debajo del título */
+}
+
+p {
+    text-shadow: 1px 1px 2px lightgray; /* Sombreado gris claro */
+}
+body {
+    font-family: sans-serif;
 }
 
 h1 {
